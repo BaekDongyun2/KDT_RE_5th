@@ -2,6 +2,8 @@
 
 ### 태양광 발전의 원리
 ![광전효과](./photoelectric_effect.jpg) ![태양광 발전 원리](https://www.bing.com/th/id/OGC.cd3f714ca1ee7784421ef74e8d330911?o=7&cb=ucfimg2&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.dsneg.com%2fContent%2fupload%2f2018377093%2f201810170924375514184.gif&ehk=fQ%2fkZay71Y4q6RZQuxS5VhT%2fqRD4FNgEhJSfpB3Ilj8%3d&ucfimg=1)
+
+
 [왼, 광전효과 / 우, 태양광 발전 원리]
 
 ##### 광전효과
